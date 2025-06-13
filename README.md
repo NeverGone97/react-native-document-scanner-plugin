@@ -4,6 +4,7 @@
 
 This is a React Native plugin that lets you scan documents using Android and iOS. You can use it to create
 apps that let users scan notes, homework, business cards, receipts, or anything with a rectangular shape.
+Support VietNamese
 
 | iOS                                                                                                                  | Android                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
